@@ -37,9 +37,17 @@ header{
     /* padding: 0%; */
 }
 
+table{
+    border-spacing: 0;
+}
+
 th{
     background-color: #1977e9;
     color: white;
+}
+
+#third_colum{
+    width: 50%;
 }
 
 .light_blue_background{
