@@ -1,0 +1,54 @@
+*{
+    margin-bottom: 1%;
+    margin-top: 1%;
+    box-sizing: border-box;
+
+}
+
+body{
+   background-image: url("../img/green.jpg");
+   font-family: 'Indie Flower', cursive;
+   background-repeat: no-repeat;
+   background-size: cover;
+   
+}
+
+h1,footer,.grey_text{ 
+    text-align: center;
+}
+
+header,footer{
+   background-image: url("../img/pattern.png");
+}
+
+#logo{
+    width: 60%;
+    margin-left: 15%;
+    margin-right: 15%;
+}
+
+main{
+    width: 50%;
+    margin: auto;
+}
+
+table{
+    border-spacing: 0;
+}
+
+#third_colum{
+    width: 50%;
+}
+
+th{
+    background-color: #2f8187ad;
+    color: white;
+}
+
+.light_blue_background{
+    background-color: #6fadb18c;
+}
+
+.grey_text,figure{
+    color: #28735F;
+}
