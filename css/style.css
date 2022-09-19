@@ -3,13 +3,39 @@
     box-sizing: border-box;
 }
 
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
 #logo{
     height: 40%;
-    margin-top: 10%;
+    margin-top: 50px;
 }
 header{
     background-image: url(../img/pattern.png);
     height: 200px;
     width: 100%;
     background-color: #1977e9;
+}
+
+.grey_text{
+    color: rgb(94, 87, 87);
+}
+
+.blue_text{
+    color: rgb(12, 75, 170);
+}
+
+#didascalia{
+    font-size: 10px;
+    margin-bottom: 10px;
+}
+
+th{
+    background-color: #1977e9;
+    color: white;
+}
+
+.light_blue_background{
+    background-color: aquamarine;
 }
