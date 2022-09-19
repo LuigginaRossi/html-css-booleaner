@@ -31,6 +31,10 @@ header{
     margin-bottom: 10px;
 }
 
+.yellow_background{
+    background-color: yellow;
+}
+
 th{
     background-color: #1977e9;
     color: white;
@@ -39,3 +43,20 @@ th{
 .light_blue_background{
     background-color: aquamarine;
 }
+
+.monitor{
+    background-image: url("../img/monitor.jpg");
+  
+}
+
+.graph{
+    background-image: url("../img/graph.jpg");    
+}
+
+.monitor,.graph{
+    height: 200px;
+    background-repeat: no-repeat;
+    color: white;
+    font-size: bold;
+}
+
